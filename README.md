@@ -3,7 +3,7 @@ Este é um projeto que desenvolvi como parte do meu aprendizado em Flutter e Dar
 
 Eu escolhi usar Flutter e Dart para desenvolver essa aplicação, garantindo alta performance e uma experiência de usuário suave. Para melhorar a velocidade de carregamento das imagens, implementei otimizações com cache.
 
-O código-fonte está organizado e bem documentado, seguindo as melhores práticas de desenvolvimento que aprendi ao longo do tempo. Sinta-se à vontade para explorar, contribuir ou usar este projeto como referência para seus próprios projetos.
+O código-fonte está organizado e bem documentado, seguindo as melhores práticas de desenvolvimento que aprendi ao longo do tempo. 
 
 Principais recursos do projeto:
 - Login e Cadastro
@@ -12,6 +12,4 @@ Principais recursos do projeto:
 - Formulário com Função de Salvamento
 - Funcionalidade de Log Out
 
-Espero que este projeto seja útil para você, assim como foi para mim durante meu aprendizado. Sinta-se à vontade para abrir problemas, enviar solicitações de pull ou entrar em contato comigo se tiver alguma dúvida.
-
-Divirta-se explorando o código e experimentando as funcionalidades desta aplicação de demonstração!
+Agradeço pela oportunidade de compartilhar este projeto e espero que ele demonstre meu comprometimento com o desenvolvimento Flutter.
