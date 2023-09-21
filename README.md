@@ -1,16 +1,15 @@
-# exemplo3
+# CopiaAppCompreFlutter
+Este é um projeto que desenvolvi como parte do meu aprendizado em Flutter e Dart. É uma aplicação de demonstração Front-End baseada em um aplicativo bancário, onde recriei diversas telas funcionais. O projeto inclui recursos como login, cadastro e várias abas para compra e venda de precatórios. Também adicionei uma aba de filtros e um formulário com funcionalidade de salvamento, além de uma opção de log out.
 
-A new Flutter project.
+Eu escolhi usar Flutter e Dart para desenvolver essa aplicação, garantindo alta performance e uma experiência de usuário suave. Para melhorar a velocidade de carregamento das imagens, implementei otimizações com cache.
 
-## Getting Started
+O código-fonte está organizado e bem documentado, seguindo as melhores práticas de desenvolvimento que aprendi ao longo do tempo. 
 
-This project is a starting point for a Flutter application.
+Principais recursos do projeto:
+- Login e Cadastro
+- Abas de Compra e Venda de Precatórios
+- Sistema de Filtros
+- Formulário com Função de Salvamento
+- Funcionalidade de Log Out
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Agradeço pela oportunidade de compartilhar este projeto e espero que ele demonstre meu comprometimento com o desenvolvimento Flutter.
